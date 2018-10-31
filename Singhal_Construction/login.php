@@ -13,6 +13,7 @@ else
 <html lang="en" class="ie9">
 <head>
     <meta charset="UTF-8">
+    <meta name="theme-color" content="#db5945">
     <title>Login</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
